@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="H2 - test">
+  <database-model serializer="dbm" rdbms="H2" format-version="2.6">
+    <database id="1" name="TEST">
+      <visible>1</visible>
+    </database>
+    <schema id="2" parent="1" name="PUBLIC">
+      <visible>1</visible>
+    </schema>
+    <schema id="3" parent="1" name="INFORMATION_SCHEMA"/>
+  </database-model>
+</dataSource>

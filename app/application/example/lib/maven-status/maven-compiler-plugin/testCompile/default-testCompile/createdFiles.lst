@@ -1,0 +1,12 @@
+com\igumnov\common\InjectClass.class
+com\igumnov\common\CyphersTest.class
+com\igumnov\common\LogTest.class
+com\igumnov\common\DependencyTest.class
+com\igumnov\common\CacheTest.class
+com\igumnov\common\ObjectDTO.class
+com\igumnov\common\FileTest.class
+com\igumnov\common\NumberTest.class
+com\igumnov\common\TimeTest.class
+com\igumnov\common\TaskTest.class
+com\igumnov\common\WebServerTest.class
+com\igumnov\common\ORMTest.class
