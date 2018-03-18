@@ -1,51 +1,53 @@
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\annotations\Field.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\time\TimeException.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\RestControllerHandler.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\StringInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\LoginServiceInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\cache\CacheInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Number.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\LoginServiceHandler.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\WebServer.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\MessageResolver.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\Transaction.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\cache\MemoryCache.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Task.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\ControllerInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\DDLHistory.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\BinaryInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Folder.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\dependency\Named.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\WebUser.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\reflection\ReflectionException.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\SimpleField.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\TEST.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\LocaleInterceptorInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\File.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\JSON.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\annotations\Id.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\annotations\Entity.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Time.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\time\Timer.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\dependency\Inject.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Cache.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\cache\RedisCache.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\URL.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Benchmark.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Strings.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\ControllerContext.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\cache\Value.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\ORM.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\ControllerHandler.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Log.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Cyphers.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\RestControllerInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\RestControllerSimpleInterface.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\WebServerException.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Dependency.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\dependency\DependencyException.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\orm\Table.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\Reflection.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\BinaryHandler.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\webserver\StringHandler.java
-C:\Users\Доктор кто\Desktop\diplom\framework\common\src\main\java\com\igumnov\common\reflection\ReflectionAPI.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\cache\CacheInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\LoginServiceInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\MessageResolver.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Dependency.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\dependency\DependencyException.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\dependency\Inject.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\dependency\Named.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\time\Timer.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\RestControllerHandler.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Time.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\annotations\Entity.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\LocaleInterceptorInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\WebServer.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\Reference.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\RestControllerSimpleInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Cache.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\ControllerHandler.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Reflection.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Number.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\Transaction.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\LoginServiceHandler.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\JSON.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Log.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\WebUser.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\WebServerException.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\reflection\ReflectionException.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\SimpleField.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\RestControllerInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\cache\RedisCache.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\annotations\Field.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Benchmark.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\time\TimeException.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Folder.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Strings.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\StringHandler.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\DDLHistory.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\ControllerContext.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\File.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\annotations\Id.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\Table.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\reflection\ReflectionAPI.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\cache\MemoryCache.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Cyphers.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\URL.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\BinaryHandler.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\ORM.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\cache\Value.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\BinaryInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\StringInterface.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\Task.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\TEST.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\orm\annotations\Constraint.java
+C:\Users\campe\Desktop\diplom\app\framework\common\src\main\java\com\igumnov\common\webserver\ControllerInterface.java

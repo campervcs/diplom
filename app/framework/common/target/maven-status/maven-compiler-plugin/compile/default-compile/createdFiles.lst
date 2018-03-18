@@ -1,3 +1,4 @@
+com\igumnov\common\orm\Reference.class
 com\igumnov\common\Folder$1MyFileVisitor.class
 com\igumnov\common\webserver\LocaleInterceptorInterface.class
 com\igumnov\common\WebServer$1.class
@@ -42,6 +43,7 @@ com\igumnov\common\cache\Value.class
 com\igumnov\common\dependency\DependencyException.class
 com\igumnov\common\orm\SimpleField.class
 com\igumnov\common\Task$2.class
+com\igumnov\common\orm\annotations\Constraint.class
 com\igumnov\common\webserver\ControllerInterface.class
 com\igumnov\common\orm\annotations\Id.class
 com\igumnov\common\Folder.class

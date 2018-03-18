@@ -1,22 +1,17 @@
 package com.igumnov.common.example;
 
-import com.igumnov.common.Log;
 import com.igumnov.common.ORM;
 import com.igumnov.common.WebServer;
-import com.igumnov.common.entities.Fly;
-import com.igumnov.common.reflection.ReflectionException;
 import com.igumnov.common.webserver.WebServerException;
 
-import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Enumeration;
 
 public class App {
 
     public static void main(String[] args) throws Exception {
 
-        //ORM.connectionPool("org.h2.Driver", "jdbc:h2:~/test", "SA", "", 1, 3);
+        //ORM.connectionPool("com.mysql.jdbc.Driver", "jdbc:mysql://localhost:3306/application", "root", "root", 1, 3);
         ORM.LoadProperties(App.class,"../../../../db_config");
        // ORM.applyDDL("sql");
         WebServer.setPoolSize(5,10);

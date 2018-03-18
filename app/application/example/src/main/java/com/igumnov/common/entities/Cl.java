@@ -15,5 +15,5 @@ public class Cl {
     @Field(fieldName = "gender" , autoIncremental = false)
     private String sex;
     @Id(autoIncremental = true, fieldName = "id")
-    private BigDecimal id;
+    private Integer id;
 }

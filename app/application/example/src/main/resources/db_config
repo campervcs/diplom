@@ -1,6 +1,6 @@
 # Database configuration
 Database.Driver=com.mysql.jdbc.Driver
-Database.DataURL=jdbc:mysql://localhost:3306/application
+Database.DataURL=jdbc:mysql://localhost:3306/test
 Database.Prop.user=root
 Database.Prop.password=root
 Database.Min_Pool_Size=1

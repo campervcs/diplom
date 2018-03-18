@@ -11,5 +11,5 @@ public class TestEntity {
     @Field(fieldName = "Sold", autoIncremental = false)
     private Date date;
     @Id(autoIncremental = true, fieldName = "id")
-    private Integer id;
+    private int id;
 }
